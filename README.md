@@ -2,6 +2,10 @@
 
 This project is an AI-powered chatbot leveraging Facebook's Ollama LLaMa3 model. The backend is built with Flask and uses the Langchain framework to handle AI interactions. The frontend, built with React, communicates with the backend via Socket.IO.
 
+## Example - Application Working
+
+![Working application example](./yara-example.png)
+
 ## Requirements
 
 - Python 3.x
